@@ -21,13 +21,13 @@
 
 
 ## Installation (64bit):
-1. `wget https://raw.githubusercontent.com/zgelici/FOS-Streaming-v1/master/install_fos_ubuntu1404_64bit.sh`
+1. `wget https://raw.githubusercontent.com/toledomg/FOS-Streaming/master/install_fos_ubuntu1404_64bit.sh`
 2. `chmod 755 install_fos_ubuntu1404_64bit.sh`
 3. `./install_fos_ubuntu1404_64bit.sh`
 
 
 ## Installation (32bit):
-1. `wget https://raw.githubusercontent.com/zgelici/FOS-Streaming-v1/master/install_fos_ubuntu1404_32bit.sh`
+1. `wget https://raw.githubusercontent.com/toledomg/FOS-Streaming/master/install_fos_ubuntu1404_32bit.sh`
 2. `chmod 755 install_fos_ubuntu1404_32bit.sh`
 3. `./install_fos_ubuntu1404_32bit.sh`
 
@@ -72,8 +72,3 @@ Contribution are always **welcome and recommended**! Here is how:
 ## License
 Fos-Streamining is an open source project by [Tyfix](https://tyfix.nl that is licensed under [MIT](http://opensource.org/licenses/MIT). Tyfix
 reserves the right to change the license of future releases.
-
-
-Donations are **greatly appreciated!**
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Tyfix ")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6ATJFKYPFY65W "Donate")
